@@ -21,6 +21,10 @@ public class Mueble {
 	public void setAnyos(int anyos) {
 		this.anyos = anyos;
 	}
+	@Override
+	public String toString() {
+		return "Mueble [material=" + material + ", anyos=" + anyos + "]";
+	}
 	
 	
 }
