@@ -25,7 +25,7 @@ public class persona {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
-// gracias por el String
+
 	@Override
 	public String toString() {
 		return "persona [nombre=" + nombre + ", edad=" + edad + "]";
