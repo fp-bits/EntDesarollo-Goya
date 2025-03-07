@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/alumno/Descargas/israel1/ProyectoColaborativo/.metadata/.plugins/org.eclipse.jdt.core
+1871267909.index
+1865797976.index
+713695816.index
