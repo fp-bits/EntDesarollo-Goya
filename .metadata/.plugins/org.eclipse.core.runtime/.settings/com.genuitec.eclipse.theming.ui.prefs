@@ -3,7 +3,12 @@ approved.defs.file.last.changed.time=1693315978000
 configurationInstallLocation=/usr/eclipse/
 eclipse.preferences.version=1
 iconcolormode=primary
+<<<<<<< HEAD
 last.download.attempt.time=1741342203171
 lastConfiguration=1741347120540
+=======
+last.download.attempt.time=1741348210547
+lastConfiguration=1741348202921
+>>>>>>> efb3fbc (Cambios realizados 2)
 newinstall=true
 workbench.theme=Dark Gray
