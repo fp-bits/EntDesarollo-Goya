@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/alumno/Escritorio/colaborativo/.metadata/.plugins/org.eclipse.jdt.core
+1871267909.index
+2757740723.index
+1865797976.index
